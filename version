@@ -1,9 +1,9 @@
 
 
-stamp 2017-10-30 09:30:52
+stamp "2017-10-30 09:30:52"
 min 1.0
 ver 1.1
-url https://raw.githubusercontent.com/tom8251/hellowrld/master/1.1.version
+url "https://raw.githubusercontent.com/tom8251/hellowrld/master/1.1.version"
 
 
 node [[[
