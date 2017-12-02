@@ -9,16 +9,10 @@ MN:192.168.1.121:8800
 MN:192.168.1.120:8800 
 ]]]
 
-#usergroup:target =>pc:0,android:1, linux:2, test:100
-target [[[
-0:1
-1:2
-2:1
-]]]
-
+#usergroup targetVer minVer url
 version [[[
-1 $ https://raw.githubusercontent.com/tom8251/hellowrld/master/1.1.version 
-2 $ https://raw.githubusercontent.com/tom8251/hellowrld/master/1.1.version 
+1 1 1 https://raw.githubusercontent.com/tom8251/hellowrld/master/1.1.version 
+2 2 1 https://raw.githubusercontent.com/tom8251/hellowrld/master/1.1.version 
 ]]]
 
 ns [[[
