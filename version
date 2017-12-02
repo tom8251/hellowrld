@@ -1,12 +1,9 @@
 #webconfig
 
-dump 192.168.1.1 
-
-
 
 node [[[
-MN:192.168.1.121:8800
-MN:192.168.1.120:8800 
+MN:4:192.168.1.121:8800
+MN:5:192.168.1.120:8800 
 ]]]
 
 #usergroup targetVer minVer url
