@@ -3,12 +3,12 @@
 
 node [[[
 MN:4:192.157.231.61:7004
-MN:5:192.168.1.120:8800 
+MN:5:192.168.1.101:7002 
 ]]]
 
 #appid targetVer minVer url
 version [[[
-1 1 1 https://raw.githubusercontent.com/tom8251/hellowrld/master/ver_898.version 
+1 1 1 https://raw.githubusercontent.com/tom8251/hellowrld/master/ver_898_1.version 
 2 2 1 https://raw.githubusercontent.com/tom8251/hellowrld/master/ver_898_2.version 
 ]]]
 
